@@ -11,15 +11,13 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Glasslip
-Audio File: sora 02 premux[AE033A44].mkv
-Video File: sora 02 premux[AE033A44].mkv
-Keyframes File: sora 02 premux[AE033A44]_keyframes.log
+Video File: D:/Fansubbing/Kaylith/Sora no Method/02/sora 02 premux[AE033A44].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 4269
-Active Line: 4779
-Video Position: 21527
+Video Zoom Percent: 1.000000
+Scroll Position: 432
+Active Line: 436
+Video Position: 4804
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -471,7 +469,7 @@ Dialogue: 0,0:02:23.62,0:02:28.50,SjoeSigns,,0,0,0,,{\fad(860,516)\fnIwata Maru 
 Dialogue: 1,0:02:23.62,0:02:28.50,SjoeSigns,,0,0,0,,{\fad(860,516)\fnIwata Maru Gothic Pro M-Kami\fs65\bord0\c&HFFFFFF&\blur0.6\b1\pos(473.746,515.697)\fscx120\fscy120}The Pair's Promise
 Dialogue: 2,0:02:23.62,0:02:28.50,SjoeSigns,,0,0,0,,{\fad(860,516)\p1\blur0.6\c&HC6AF5C&\fscx44\fscy64\pos(490.667,525.604)}m 0 0 b 0 0 0 0 0 0 b -21 -1 -34 8 -32 9 b -34 19 24 20 41 20 b 94 20 116 13 113 7 b 112 0 92 -1 80 -2 b 92 2 96 6 96 7 b 99 13 66 15 41 15 b 12 15 -19 13 -17 8 b -14 3 -7 2 -1 0
 Dialogue: 5,0:03:20.34,0:03:22.59,SjoeSigns,,0,0,0,,{\frz1.94\fs8\fnViga\fscy120\blur0.85\3c&HEAEAF1&\c&HEAEAF1&\frx0\fry2\pos(529.923,289.385)\bord0.4}Prospects on Increasing Budgets for Disc Supervision
-Dialogue: 6,0:03:20.34,0:03:22.59,SjoeSigns,,0,0,0,,{\frz1.94\fs8\fnViga\fscy120\c&HC5C2A6&\blur0.65\3c&HDCDCDC&\frx0\fry2\pos(529.923,289.385)\bord0\t(72,72,\c&HA9A386&)}Prospects on Increasing Budgets for Disc Supervision
+Dialogue: 6,0:03:20.34,0:03:22.59,SjoeSigns,,0,0,0,,{\frz1.94\fs8\fnViga\fscy120\c&HC5C2A6&\blur0.65\3c&HDCDCDC&\frx0\fry2\pos(529.923,289.385)\bord0\t(67,67,\c&HA9A386&)}Prospects on Increasing Budgets for Disc Supervision
 Dialogue: 1,0:03:22.59,0:03:25.10,SjoeSigns,,0,0,0,,{\blur2.5\an7\pos(0,3)\c&HECBB60&\1a&H7E&\fscx100\fscy100\p1}m 329 472 b 330 472 331 457 329 447 333 438 341 435 341 435 339 435 944 414 956 417 964 414 964 427 965 427 l 965 447
 Dialogue: 2,0:03:22.59,0:03:25.10,SjoeSigns,,0,0,0,,{\c&HECBB60&\1a&H7E&\an7\blur3\bord0\shad0\fscx100\fscy100\pos(649.714,457.571)\p1}m 309 -5 l 309 -37 314 -37 314 -4
 Dialogue: 1,0:03:22.59,0:03:25.10,SjoeSigns,,0,0,0,,{\an7\blur1\bord0\shad0\fsc100\fscy50\c&HF0F0F0&\1a&H90&\p1\frz0.2\pos(-2.286,209.143)}m 329 464 l 963 434 964 439 328 468
