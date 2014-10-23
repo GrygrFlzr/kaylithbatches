@@ -17,8 +17,8 @@ Video File: D:/Fansubbing/Kaylith/Glasslip/13/glasslip13_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 420
-Active Line: 424
+Scroll Position: 297
+Active Line: 320
 Video Position: 28932
 
 [V4+ Styles]
@@ -37,7 +37,7 @@ Style: ED-Eng-Bord,Headache,42,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00000000,0,0,0
 Style: ChhSigns,Kozuka Mincho Pro Strippedv2 R,34,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,8,1
 Style: Names/EpTitles,Kozuka Mincho Pro Strippedv2 H,34,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,8,1
 Style: IN01-Rom,Poor Richard,38,&H00FFFFFF,&H000000FF,&H006D364E,&H00000000,0,0,0,0,100,100,0,0,1,3,0,7,30,30,30,1
-Style: IN01-Eng,Poor Richard,38,&H00FFFFFF,&H000000FF,&H006D364E,&H00000000,0,0,0,0,100,100,0,0,1,3,0,7,30,30,75,1
+Style: IN01-Eng,Poor Richard,38,&H00FFFFFF,&H000000FF,&H006D364E,&H00000000,0,0,0,0,100,100,0,0,1,3,0,7,30,30,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -352,16 +352,16 @@ Dialogue: 10,0:21:20.63,0:21:22.31,Glasslip-Main,GirlA,0,0,0,,Morning.
 Dialogue: 10,0:21:44.90,0:21:45.57,Glasslip-Main,Kakeru,0,0,0,,{\i1}Touko!
 Comment: 0,0:22:09.76,0:22:10.52,Glasslip-Main,Kakeru,0,0,0,,{END}
 Comment: 0,0:18:36.45,0:18:38.43,Glasslip-Main,,0,0,0,,IN01
-Dialogue: 1,0:18:38.43,0:18:45.77,IN01-Rom,,0,0,0,,{\fad(250,250)\be1}nami no oto wo kikinagara aruite yuku
-Dialogue: 1,0:18:45.77,0:18:55.07,IN01-Rom,,0,0,0,,{\fad(250,250)\be1}mada saki no koto nante kangaeta koto nakute
-Dialogue: 1,0:18:55.07,0:19:02.41,IN01-Rom,,0,0,0,,{\fad(250,250)\be1}warai atteru "ima" dake ga subete datta
-Dialogue: 1,0:19:02.41,0:19:11.58,IN01-Rom,,0,0,0,,{\fad(250,250)\be1}fuki nuketeru oi kaze ni yobare furi kaeru to
-Dialogue: 1,0:19:11.58,0:19:19.47,IN01-Rom,,0,0,0,,{\fad(250,250)\be1}itsumono keshiki ga fui ni chigatte mieta
-Dialogue: 1,0:19:19.47,0:19:29.56,IN01-Rom,,0,0,0,,{\fad(250,250)\be1}konna natsu wa nido to konaitte kizuita no
-Dialogue: 1,0:19:29.56,0:19:45.70,IN01-Rom,,0,0,0,,{\fad(250,250)\be1}toumei na hitomi no oku wazuka ni hajiketa niji no kakera
-Dialogue: 1,0:19:45.70,0:19:55.38,IN01-Rom,,0,0,0,,{\fad(250,250)\be1}kagayaki dasu shinkirou no mukou gawa
-Dialogue: 1,0:19:55.38,0:20:00.67,IN01-Rom,,0,0,0,,{\fad(250,250)\be1}te wo nobase ba ashita ga hora,
-Dialogue: 1,0:20:00.67,0:20:03.89,IN01-Rom,,0,0,0,,{\fad(250,250)\be1}kawaru yo
+Comment: 1,0:18:38.43,0:18:45.77,IN01-Rom,,0,0,0,,{\fad(250,250)\be1}nami no oto wo kikinagara aruite yuku
+Comment: 1,0:18:45.77,0:18:55.07,IN01-Rom,,0,0,0,,{\fad(250,250)\be1}mada saki no koto nante kangaeta koto nakute
+Comment: 1,0:18:55.07,0:19:02.41,IN01-Rom,,0,0,0,,{\fad(250,250)\be1}warai atteru "ima" dake ga subete datta
+Comment: 1,0:19:02.41,0:19:11.58,IN01-Rom,,0,0,0,,{\fad(250,250)\be1}fuki nuketeru oi kaze ni yobare furi kaeru to
+Comment: 1,0:19:11.58,0:19:19.47,IN01-Rom,,0,0,0,,{\fad(250,250)\be1}itsumono keshiki ga fui ni chigatte mieta
+Comment: 1,0:19:19.47,0:19:29.56,IN01-Rom,,0,0,0,,{\fad(250,250)\be1}konna natsu wa nido to konaitte kizuita no
+Comment: 1,0:19:29.56,0:19:45.70,IN01-Rom,,0,0,0,,{\fad(250,250)\be1}toumei na hitomi no oku wazuka ni hajiketa niji no kakera
+Comment: 1,0:19:45.70,0:19:55.38,IN01-Rom,,0,0,0,,{\fad(250,250)\be1}kagayaki dasu shinkirou no mukou gawa
+Comment: 1,0:19:55.38,0:20:00.67,IN01-Rom,,0,0,0,,{\fad(250,250)\be1}te wo nobase ba ashita ga hora,
+Comment: 1,0:20:00.67,0:20:03.89,IN01-Rom,,0,0,0,,{\fad(250,250)\be1}kawaru yo
 Dialogue: 0,0:18:38.43,0:18:45.77,IN01-Eng,,0,0,0,,{\fad(250,250)\be1}I listen to the sound of the waves as I walk.
 Dialogue: 0,0:18:45.77,0:18:55.07,IN01-Eng,,0,0,0,,{\fad(250,250)\be1}Thoughts about the things ahead of us never crossed my mind.
 Dialogue: 0,0:18:55.07,0:19:02.41,IN01-Eng,,0,0,0,,{\fad(250,250)\be1}All that mattered to me was the time we spent laughing together.
