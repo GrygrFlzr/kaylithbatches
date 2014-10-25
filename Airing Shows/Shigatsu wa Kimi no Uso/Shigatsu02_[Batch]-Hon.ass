@@ -13759,17 +13759,17 @@ Dialogue: 0,0:19:50.66,0:19:51.04,Signs,,0,0,0,,{\bord1\fnFrom Where You Are\fs1
 Dialogue: 0,0:19:50.66,0:19:51.04,Signs,,0,0,0,,{\bord1\fnFrom Where You Are\fs100\c&HD56083&\3c&HAD5A7E&\pos(666.286,346.286)\frz65.94\fscx107\fscy71\blur0.6}Stare
 Dialogue: 0,0:19:51.04,0:19:51.25,Signs,,0,0,0,,{\bord1\fnFrom Where You Are\fs100\c&HD56083&\3c&HAD5A7E&\fscx121\fscy100\pos(1132.572,320)\frz340.6\blur0.6}Stare
 Dialogue: 0,0:19:51.04,0:19:51.25,Signs,,0,0,0,,{\bord1\fnFrom Where You Are\fs100\c&HD56083&\3c&HAD5A7E&\frz28.39\pos(961.144,148.572)\fscx88\fscy108\blur0.6}Stare
-Dialogue: 0,0:21:17.00,0:21:20.00,Signs,,0,0,0,,{\an4\bord0\blur0.5\p1\frz180\pos(582.13,217.89)\c&H000000&}m 0 0 l 25 0.5 0 1
-Dialogue: 0,0:21:17.00,0:21:20.00,Signs,,0,0,0,,{\an4\bord0\blur0.5\p1\pos(700.93,217.89)\c&H000000&}m 0 0 l 25 0.5 0 1
+Dialogue: 0,0:21:17.00,0:21:20.00,Signs,,0,0,0,,{\an4\bord0\blur0.4\p1\frz180\pos(582.13,217.89)\c&H000000&}m 0 0 l 25 0.5 0 1
+Dialogue: 0,0:21:17.00,0:21:20.00,Signs,,0,0,0,,{\an4\bord0\blur0.4\p1\pos(700.93,217.89)\c&H000000&}m 0 0 l 25 0.5 0 1
 Dialogue: 1,0:21:17.00,0:21:20.00,Signs,,0,0,0,,{\blur0.4\fnCorbert\fs26\b1\pos(641.71,218.64)\c&H000000&}Episode 2
-Dialogue: 0,0:21:17.00,0:21:20.00,Signs,,0,0,0,,{\an4\bord0\blur0.6\p1\frz180\pos(564.7,474.15)\c&H000000&}m 0 0 l 100 0.7 0 1.4
-Dialogue: 0,0:21:17.00,0:21:20.00,Signs,,0,0,0,,{\an4\bord0\blur0.6\p1\pos(717.93,474.15)\c&H000000&}m 0 0 l 100 0.7 0 1.4
+Dialogue: 0,0:21:17.00,0:21:20.00,Signs,,0,0,0,,{\an4\bord0\blur0.4\p1\frz180\pos(564.7,474.15)\c&H000000&}m 0 0 l 100 0.7 0 1.4
+Dialogue: 0,0:21:17.00,0:21:20.00,Signs,,0,0,0,,{\an4\bord0\blur0.4\p1\pos(717.93,474.15)\c&H000000&}m 0 0 l 100 0.7 0 1.4
 Dialogue: 1,0:21:17.00,0:21:20.00,Signs,,0,0,0,,{\blur0.4\fnCorbert\fs30\b1\pos(641.14,474.4)\c&H000000&}F{\c&HC098DE&}r{\c&H151538&}ien{\c&HED9C86&}d{\c&H000000&} A
-Dialogue: 0,0:22:33.95,0:22:38.87,Signs,,0,0,0,,{\an4\bord0\blur0.5\p1\frz180\pos(582.13,217.89)\c&H97B49B&}m 0 0 l 25 0.5 0 1
-Dialogue: 0,0:22:33.95,0:22:38.87,Signs,,0,0,0,,{\an4\bord0\blur0.5\p1\pos(700.93,217.89)\c&HF54040&}m 0 0 l 25 0.5 0 1
+Dialogue: 0,0:22:33.95,0:22:38.87,Signs,,0,0,0,,{\an4\bord0\blur0.4\p1\frz180\pos(582.13,217.89)\c&H97B49B&}m 0 0 l 25 0.5 0 1
+Dialogue: 0,0:22:33.95,0:22:38.87,Signs,,0,0,0,,{\an4\bord0\blur0.4\p1\pos(700.93,217.89)\c&HF54040&}m 0 0 l 25 0.5 0 1
 Dialogue: 1,0:22:33.95,0:22:38.87,Signs,,0,0,0,,{\blur0.4\fnCorbert\fs26\b1\pos(641.71,218.64)\c&H97B49B&\fscx100\fscy100}E{*\c&HA3A690&}p{*\c&HAE9784&}i{*\c&HBA8879&}s{*\c&HC67A6E&}o{*\c&HD26C62&}d{*\c&HDE5D57&}e {\c&HF54040&}3
-Dialogue: 0,0:22:33.95,0:22:38.87,Signs,,0,0,0,,{\an4\bord0\blur0.5\p1\c&HF86B6E&\pos(780.93,477.22)}m 0 0 l 70 0.7 0 1.4
-Dialogue: 0,0:22:33.95,0:22:38.87,Signs,,0,0,0,,{\an4\bord0\blur0.5\p1\c&HB6D0D0&\frz180\pos(495.13,477.22)}m 0 0 l 70 0.7 0 1.4
-Dialogue: 2,0:22:33.95,0:22:38.87,Signs,,0,0,0,,{\blur0.6\fnCorbert\fs30\b1\pos(637.71,476.48)\fscx93\fscy93\c&HDFF1F2&}I{*\c&HE0EBEC&}n {*\c&HE2DFE0&}t{*\c&HE4D9DA&}h{*\c&HE5D3D4&}e {*\c&HE7C6C8&}M{*\c&HE8C0C2&}i{*\c&HE9BABC&}d{*\c&HEAB4B6&}s{*\c&HECAEB0&}t {*\c&HEEA2A4&}o{*\c&HEF9C9E&}f {*\c&HF19092&}S{*\c&HF2898C&}p{*\c&HF38386&}r{*\c&HF57D80&}i{*\c&HF6777A&}n{*\c&HF77174&}g{\c&HF86B6E&}
+Dialogue: 0,0:22:33.95,0:22:38.87,Signs,,0,0,0,,{\an4\bord0\blur0.4\p1\c&HF86B6E&\pos(780.93,477.22)}m 0 0 l 70 0.7 0 1.4
+Dialogue: 0,0:22:33.95,0:22:38.87,Signs,,0,0,0,,{\an4\bord0\blur0.4\p1\c&HB6D0D0&\frz180\pos(495.13,477.22)}m 0 0 l 70 0.7 0 1.4
+Dialogue: 2,0:22:33.95,0:22:38.87,Signs,,0,0,0,,{\blur0.4\fnCorbert\fs30\b1\pos(637.71,476.48)\fscx93\fscy93\c&HDFF1F2&}I{*\c&HE0EBEC&}n {*\c&HE2DFE0&}t{*\c&HE4D9DA&}h{*\c&HE5D3D4&}e {*\c&HE7C6C8&}M{*\c&HE8C0C2&}i{*\c&HE9BABC&}d{*\c&HEAB4B6&}s{*\c&HECAEB0&}t {*\c&HEEA2A4&}o{*\c&HEF9C9E&}f {*\c&HF19092&}S{*\c&HF2898C&}p{*\c&HF38386&}r{*\c&HF57D80&}i{*\c&HF6777A&}n{*\c&HF77174&}g{\c&HF86B6E&}
 Dialogue: 0,0:22:50.01,0:22:55.02,Signs,,0,0,0,,{\blur0.5\bord2.5\fnParisish\fs60\b1\c&H000000&\pos(284.97,569.93)\fscx103\fscy103}See you next week !
 Dialogue: 1,0:22:50.01,0:22:55.02,Signs,,0,0,0,,{\blur0.5\bord0\fnParisish\fs60\b1\c&HFFFFFF&\4a&HFF&\pos(284.97,569.93)\fscx103\fscy103}See you next week !

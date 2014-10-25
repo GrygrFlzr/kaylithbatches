@@ -13,13 +13,13 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Shigatsu
-Audio File: Shigatsu 03 Premux.mkv
-Video File: Shigatsu 03 Premux.mkv
+Video File: D:/Fansubbing/Kaylith/Shigatsu wa Kimi no Uso/03/Shigatsu 03 Premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Active Line: 23
-Video Position: 19672
+Video Zoom Percent: 1.375000
+Scroll Position: 10849
+Active Line: 10858
+Video Position: 30679
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -10893,18 +10893,18 @@ Dialogue: 0,0:15:10.22,0:15:10.26,Signs,,0,0,0,,{\blur1\fnSponged\b1\fs11\c&HC8C
 Dialogue: 0,0:15:10.26,0:15:10.30,Signs,,0,0,0,,{\blur1\fnSponged\b1\fs11\c&HC8C8C9&\pos(308.54,382.54)}T{*\c&HC7C7C8&}o{*\c&HC5C5C6&}w{*\c&HC4C4C5&}a {*\c&HC1C1C2&}H{*\c&HBFBFC0&}a{*\c&HBEBEBF&}l{*\c&HBDBDBE&}l {*\c&HBABABB&}I{*\c&HB8B8B9&}n{*\c&HB7B7B8&}f{*\c&HB6B6B6&}o{*\c&HB4B4B5&}r{*\c&HB3B3B4&}m{*\c&HB1B1B2&}a{*\c&HB0B0B1&}t{*\c&HAEAEAF&}i{*\c&HADADAE&}o{*\c&HACACAD&}n {*\c&HA9A9AA&}B{*\c&HA7A7A8&}o{*\c&HA6A6A7&}a{*\c&HA4A4A5&}r{\c&HA3A3A4&}d
 Dialogue: 0,0:15:10.30,0:15:10.34,Signs,,0,0,0,,{\blur1\fnSponged\b1\fs11\c&HC8C8C9&\pos(310.72,382.54)}T{*\c&HC7C7C8&}o{*\c&HC5C5C6&}w{*\c&HC4C4C5&}a {*\c&HC1C1C2&}H{*\c&HBFBFC0&}a{*\c&HBEBEBF&}l{*\c&HBDBDBE&}l {*\c&HBABABB&}I{*\c&HB8B8B9&}n{*\c&HB7B7B8&}f{*\c&HB6B6B6&}o{*\c&HB4B4B5&}r{*\c&HB3B3B4&}m{*\c&HB1B1B2&}a{*\c&HB0B0B1&}t{*\c&HAEAEAF&}i{*\c&HADADAE&}o{*\c&HACACAD&}n {*\c&HA9A9AA&}B{*\c&HA7A7A8&}o{*\c&HA6A6A7&}a{*\c&HA4A4A5&}r{\c&HA3A3A4&}d
 Dialogue: 0,0:15:10.34,0:15:10.38,Signs,,0,0,0,,{\blur1\fnSponged\b1\fs11\c&HC8C8C9&\pos(312.91,382.55)}T{*\c&HC7C7C8&}o{*\c&HC5C5C6&}w{*\c&HC4C4C5&}a {*\c&HC1C1C2&}H{*\c&HBFBFC0&}a{*\c&HBEBEBF&}l{*\c&HBDBDBE&}l {*\c&HBABABB&}I{*\c&HB8B8B9&}n{*\c&HB7B7B8&}f{*\c&HB6B6B6&}o{*\c&HB4B4B5&}r{*\c&HB3B3B4&}m{*\c&HB1B1B2&}a{*\c&HB0B0B1&}t{*\c&HAEAEAF&}i{*\c&HADADAE&}o{*\c&HACACAD&}n {*\c&HA9A9AA&}B{*\c&HA7A7A8&}o{*\c&HA6A6A7&}a{*\c&HA4A4A5&}r{\c&HA3A3A4&}d
-Dialogue: 0,0:21:17.00,0:21:20.00,Signs,,0,0,0,,{\an4\bord0\blur0.5\p1\frz180\pos(582.13,217.89)\c&H000000&}m 0 0 l 25 0.5 0 1
-Dialogue: 0,0:21:17.00,0:21:20.00,Signs,,0,0,0,,{\an4\bord0\blur0.5\p1\pos(700.93,217.89)\c&H000000&}m 0 0 l 25 0.5 0 1
+Dialogue: 0,0:21:17.00,0:21:20.00,Signs,,0,0,0,,{\an4\bord0\blur0.4\p1\frz180\pos(582.13,217.89)\c&H000000&}m 0 0 l 25 0.5 0 1
+Dialogue: 0,0:21:17.00,0:21:20.00,Signs,,0,0,0,,{\an4\bord0\blur0.4\p1\pos(700.93,217.89)\c&H000000&}m 0 0 l 25 0.5 0 1
 Dialogue: 1,0:21:17.00,0:21:20.00,Signs,,0,0,0,,{\blur0.4\fnCorbert\fs26\b1\pos(641.71,218.64)\fscx100\fscy100\c&H000000&}Episode 3
-Dialogue: 0,0:21:17.00,0:21:20.00,Signs,,0,0,0,,{\an4\bord0\blur0.5\p1\c&H000000&\pos(780.93,477.22)}m 0 0 l 70 0.7 0 1.4
-Dialogue: 0,0:21:17.00,0:21:20.00,Signs,,0,0,0,,{\an4\bord0\blur0.5\p1\c&H000000&\frz180\pos(495.13,477.22)}m 0 0 l 70 0.7 0 1.4
-Dialogue: 1,0:21:17.00,0:21:20.00,Signs,,0,0,0,,{\blur0.6\fnCorbert\fs30\b1\pos(637.71,476.48)\fscx93\fscy93\c&H000000&}In {\c&H9731D8&}t{\c&H000000&}he Mid{\c&H7FA50A&}s{\c&H000000&}t of Sp{\c&H000000&}ri{\c&H0AADAB&}n{\c&H000000&}g
-Dialogue: 0,0:22:33.95,0:22:38.87,Signs,,0,0,0,,{\an4\bord0\blur0.5\p1\frz180\c&H8A2565&\pos(588.479,206.461)}m 0 0 l 25 0.5 0 1
-Dialogue: 0,0:22:33.95,0:22:38.87,Signs,,0,0,0,,{\an4\bord0\blur0.5\p1\c&H9B0827&\pos(707.279,206.461)}m 0 0 l 25 0.5 0 1
+Dialogue: 0,0:21:17.00,0:21:20.00,Signs,,0,0,0,,{\an4\bord0\blur0.4\p1\c&H000000&\pos(780.93,477.22)}m 0 0 l 70 0.7 0 1.4
+Dialogue: 0,0:21:17.00,0:21:20.00,Signs,,0,0,0,,{\an4\bord0\blur0.4\p1\c&H000000&\frz180\pos(495.13,477.22)}m 0 0 l 70 0.7 0 1.4
+Dialogue: 1,0:21:17.00,0:21:20.00,Signs,,0,0,0,,{\blur0.4\fnCorbert\fs30\b1\pos(637.71,476.48)\fscx93\fscy93\c&H000000&}In {\c&H9731D8&}t{\c&H000000&}he Mid{\c&H7FA50A&}s{\c&H000000&}t of Sp{\c&H000000&}ri{\c&H0AADAB&}n{\c&H000000&}g
+Dialogue: 0,0:22:33.95,0:22:38.87,Signs,,0,0,0,,{\an4\bord0\blur0.4\p1\frz180\c&H8A2565&\pos(588.479,206.461)}m 0 0 l 25 0.5 0 1
+Dialogue: 0,0:22:33.95,0:22:38.87,Signs,,0,0,0,,{\an4\bord0\blur0.4\p1\c&H9B0827&\pos(707.279,206.461)}m 0 0 l 25 0.5 0 1
 Dialogue: 1,0:22:33.95,0:22:38.87,Signs,,0,0,0,,{\blur0.4\fnCorbert\fs26\b1\fscx100\fscy100\c&H8A2565&\pos(648.059,207.211)}E{*\c&H8C215D&}p{*\c&H8E1E56&}i{*\c&H901A4E&}s{*\c&H921646&}o{*\c&H95133E&}d{*\c&H970F36&}e {\c&H9B0827&}4
-Dialogue: 0,0:22:33.95,0:22:38.87,Signs,,0,0,0,,{\an4\bord0\blur0.5\p1\c&H972B16&\pos(747.501,465.791)}m 0 0 l 100 0.7 0 1.4
-Dialogue: 0,0:22:33.95,0:22:38.87,Signs,,0,0,0,,{\an4\bord0\blur0.5\p1\c&HC87021&\frz180\pos(554.273,465.791)}m 0 0 l 100 0.7 0 1.4
-Dialogue: 1,0:22:33.95,0:22:38.87,Signs,,0,0,0,,{\blur0.6\fnCorbert\fs30\b1\fscx93\fscy93\pos(652.567,465.051)\c&HC87021&}S{*\c&HC96928&}e{*\c&HCA622F&}t{*\c&HCB5B36&}t{\c&HCC543D&}i{*\c&HC34D36&}n{*\c&HBA4630&}g {*\c&HA93923&}O{*\c&HA0321C&}u{\c&H972B16&}t
+Dialogue: 0,0:22:33.95,0:22:38.87,Signs,,0,0,0,,{\an4\bord0\blur0.4\p1\c&H972B16&\pos(747.501,465.791)}m 0 0 l 100 0.7 0 1.4
+Dialogue: 0,0:22:33.95,0:22:38.87,Signs,,0,0,0,,{\an4\bord0\blur0.4\p1\c&HC87021&\frz180\pos(554.273,465.791)}m 0 0 l 100 0.7 0 1.4
+Dialogue: 1,0:22:33.95,0:22:38.87,Signs,,0,0,0,,{\blur0.4\fnCorbert\fs30\b1\fscx93\fscy93\pos(652.567,465.051)\c&HC87021&}S{*\c&HC96928&}e{*\c&HCA622F&}t{*\c&HCB5B36&}t{\c&HCC543D&}i{*\c&HC34D36&}n{*\c&HBA4630&}g {*\c&HA93923&}O{*\c&HA0321C&}u{\c&H972B16&}t
 Dialogue: 0,0:22:50.01,0:22:55.02,Signs,,0,0,0,,{\blur0.5\bord2.7\fnParisish\fs60\b1\1c&H000000&\fscx110\fscy110\pos(1003.97,87.844)}See you next week !
 Dialogue: 1,0:22:50.01,0:22:55.02,Signs,,0,0,0,,{\blur0.5\bord0\fnParisish\fs60\b1\1c&HFFFEFF&\4a&HFF&\fscx110\fscy110\pos(1003.97,87.844)}See you next week !
 Dialogue: 0,0:22:50.01,0:22:55.02,Signs,,0,0,0,,{\blur0.5\bord1.7\fnJaguarJC\fs35\b1\1c&H000000&\pos(622.636,599.844)}Riding a bike together with someone is against the law.
