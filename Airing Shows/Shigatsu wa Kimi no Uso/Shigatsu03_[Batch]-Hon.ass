@@ -18,8 +18,7 @@ Video File: Shigatsu 03 Premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 171
-Active Line: 176
+Active Line: 23
 Video Position: 19672
 
 [V4+ Styles]
@@ -59,7 +58,7 @@ Dialogue: 10,0:02:42.03,0:02:45.81,Shigatsu-Main,,0,0,0,,Water should never be k
 Dialogue: 10,0:02:53.05,0:02:55.06,Shigatsu-Main,,0,0,0,,I just learned this in piano class!
 Dialogue: 10,0:02:55.06,0:02:57.53,Shigatsu-Main,,0,0,0,,You're amazing, Megu{*}-chan{*}!
 Dialogue: 10,0:02:58.62,0:02:59.74,Shigatsu-Main,,0,0,0,,That's Mozart, right?
-Dialogue: 10,0:02:59.74,0:03:01.77,Shigatsu-Main,,0,0,0,,I learned it,
+Dialogue: 10,0:02:59.74,0:03:01.77,Shigatsu-Main,,0,0,0,,I learned it a few days ago,
 Dialogue: 10,0:03:01.77,0:03:04.14,Shigatsu-Main,,0,0,0,,but I still can't play it that good.
 Dialogue: 10,0:03:04.14,0:03:05.75,Shigatsu-Main,,0,0,0,,Really?
 Dialogue: 10,0:03:05.75,0:03:07.58,Shigatsu-Main,,0,0,0,,I guess it {\i1}is{\i0} pretty hard, huh?
