@@ -377,7 +377,7 @@ Dialogue: 0,0:01:36.95,0:01:39.91,OP-Eng,,0,0,0,,{\blur1.5\3c&H7A9C2D&}to light 
 Dialogue: 0,0:01:39.91,0:01:45.87,OP-Eng,,0,0,0,,{\blur1.5\3c&H5F775F&\t(64,64,\3c&H445392&)\t(2864,3197,\3c&H40368D&)}Trade in your melancholy for joy, don't hide away anymore
 Dialogue: 0,0:01:45.87,0:01:51.92,OP-Eng,,0,0,0,,{\blur1.5\3c&H74432B&\t(2779,2779,\3c&H9E9A4A&)\t(3280,3488,\3c&HA25461&)}Every last star will shine straight down on you
 Dialogue: 0,0:01:51.92,0:01:57.26,OP-Eng,,0,0,0,,{\blur1.5\3c&H74432B&\t(0,2985,\3c&H666A20&)}That's how all the hopes and fears we bear
-Dialogue: 0,0:01:57.26,0:02:04.97,OP-Eng,,0,0,0,,{\blur1.5\3c&H666A20&\fad(0,730)}will become the light that guides us forward
+Dialogue: 0,0:01:57.26,0:02:04.97,OP-Eng,,0,0,0,,{\blur1.5\3c&H666A20&\fad(0,730)}become the spotlights that lead us on stage
 Comment: 0,0:00:44.85,0:00:44.85,Title,,0,0,0,,TITLE
 Dialogue: 0,0:00:44.85,0:00:44.89,Title,,0,0,0,,{=4666}{\an6\bord1\blur4\p1\c&HFEFEFE&\alpha&H00&\fscx227.98\pos(439.98,176.29)\fscy126.84\4c&HFFFFFF&\3c&HFFFFFF&\clip(m 42.8571 224.286 b 54.4025 228.743 166.786 272.596 122.857 207.143 103.667 178.549 108.955 127.782 71.4286 144.286 30.5998 162.242 27.9241 105.741 -34.2857 170 -53.496 189.843 -15.9325 201.589 42.8571 224.286)}m 0 0 l 100 0 100 2 0 0
 Dialogue: 0,0:00:44.89,0:00:44.94,Title,,0,0,0,,{=4665}{\an6\bord1\blur4\p1\c&HFEFEFE&\alpha&H00&\fscx227.98\pos(439.98,176.29)\fscy126.84\4c&HFFFFFF&\3c&HFFFFFF&\clip(m 44.3478 225.901 b 57.9748 232.211 191.779 292.117 143.913 208.82 126.348 178.253 132.55 127.66 94.3478 142.609 43.42 162.537 40.6232 94.575 -31.9255 168.82 -51.3008 188.648 -12.422 199.613 44.3478 225.901)}m 0 0 l 100 0 100 2 0 0
