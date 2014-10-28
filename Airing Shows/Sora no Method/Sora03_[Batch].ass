@@ -392,7 +392,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Sora-Main,,0,0,0,,OP
 Dialogue: 8,0:01:09.38,0:01:16.05,OP-Rom,,0,0,0,,{\k20}{\k22}{\fad(150,0)\be1}ne{\k24}ga{\k24}i{\k43}go{\k48}to{\k18} {\k24}yu{\k23}re{\k20}ru {\k43}o{\k44}to{\k21} {\k44}so{\k18}tto {\k46}hi{\k47}so{\k47}me{\k76}ru{\k19}
 Dialogue: 8,0:01:16.05,0:01:23.10,OP-Rom,,0,0,0,,{\k17}{\k88}{\fad(0,150)\be1}ho{\k64}ho {\k69}no{\k20} {\k23}so{\k45}ba {\k55}de{\k30} {\k48}ma{\k17}u {\k45}yu{\k49}ki{\k43}ta{\k83}chi{\k1}
 Dialogue: 8,0:01:23.10,0:01:30.19,OP-Rom,,0,0,0,,{\k18}{\k22}{\fad(150,150)\be1}ta{\k19}ku{\k22}sa{\k46}n {\k45}no {\k45}ko{\k42}u{\k47}ka{\k22}i{\k21} {\k23}ka{\k18}ko {\k21}wo {\k23}mu{\k48}su{\k44}bu {\k45}e{\k39}ga{\k46}o{\k26}ta{\k26}chi{\k2}
-Dialogue: 8,0:01:30.19,0:01:36.82,OP-Rom,,0,0,0,,{\k15}{\k23}{\fad(150,150)\be1}ki{\k21}ta{\k23}ka{\k41}ze {\k42}no {\k44}sa{\k48}sa{\k43}ya{\k30}ki{\k13} {\k12}ku{\k12}re{\k43}te{\k24} {\k66}to{\k21}ro{\k45}ke{\k78}ru{\k19}
+Dialogue: 8,0:01:30.19,0:01:36.82,OP-Rom,,0,0,0,,{\k15}{\k23}{\fad(150,150)\be1}ki{\k21}ta{\k23}ka{\k41}ze {\k42}no {\k44}sa{\k48}sa{\k43}ya{\k30}ki{\k13} {\k12}ku{\k12}re{\k43}te{\k24} {\k87}toro{\k45}ke{\k78}ru{\k19}
 Dialogue: 8,0:01:36.82,0:01:44.66,OP-Rom,,0,0,0,,{\k11}{\k19}{\fad(150,150)\be1}fu{\k24}yu{\k69}zo{\k64}ra {\k44}no {\k62}sa{\k69}mi{\k48}shi{\k65}sa {\k56}wo{\k31} {\k45}ka{\k45}sa{\k46}ne{\k46}te{\k49}
 Dialogue: 8,0:01:44.66,0:01:51.34,OP-Rom,,0,0,0,,{\k24}{\k41}{\fad(150,0)\be1}ya{\k26}sa{\k39}shi{\k90}sa {\k60}no {\k53}hi{\k66}to{\k66}mi {\k23}ko{\k88}e{\k74}te{\k18}
 Dialogue: 8,0:01:51.34,0:01:55.38,OP-Rom,,0,0,0,,{\k17}{\k83}{\be1}i{\k71}ma {\k23}tsu{\k23}ta{\k21}e{\k25}ta{\k36}i {\k26}me{\k24}lo{\k71}dy{\k5}
@@ -403,7 +403,7 @@ Dialogue: 8,0:02:16.65,0:02:22.99,OP-Rom,,0,0,0,,{\k20}{\k42}{\fad(0,900)\be1}ya
 Dialogue: 7,0:01:09.38,0:01:16.05,OP-Rom,,0,0,0,,{\bord3.5\be4\3c&HFFFFFF&}{\fad(150,0)\be1}negaigoto yureru oto sotto hisomeru
 Dialogue: 7,0:01:16.05,0:01:23.10,OP-Rom,,0,0,0,,{\bord3.5\be4\3c&HFFFFFF&}{\fad(0,150)\be1}hoho no soba de mau yukitachi
 Dialogue: 7,0:01:23.10,0:01:30.19,OP-Rom,,0,0,0,,{\bord3.5\be4\3c&HFFFFFF&}{\fad(150,150)\be1}takusan no koukai kako wo musubu egaotachi
-Dialogue: 7,0:01:30.19,0:01:36.82,OP-Rom,,0,0,0,,{\bord3.5\be4\3c&HFFFFFF&}{\fad(150,150)\be1}kitakaze no sasayaki kurete torokeru
+Dialogue: 7,0:01:30.19,0:01:36.82,OP-Rom,,0,0,0,,{\bord3.5\be4\3c&HFFFFFF&}{\fad(150,150)\be1}kitakaze no sasayaki kurete tokeru
 Dialogue: 7,0:01:36.82,0:01:44.66,OP-Rom,,0,0,0,,{\bord3.5\be4\3c&HFFFFFF&}{\fad(150,150)\be1}fuyuzora no samishisa wo kasanete
 Dialogue: 7,0:01:44.66,0:01:51.34,OP-Rom,,0,0,0,,{\bord3.5\be4\3c&HFFFFFF&}{\fad(150,0)\be1}yasashisa no hitomi koete
 Dialogue: 7,0:01:51.34,0:01:55.38,OP-Rom,,0,0,0,,{\bord3.5\be4\3c&HFFFFFF&}{\be1}ima tsutaetai melody
